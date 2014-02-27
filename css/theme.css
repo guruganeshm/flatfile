@@ -457,4 +457,11 @@ header {
 
 /* Icons
 -------------------------------------------------- */
+.circle {
+    position:relative;
+    margin:20px;
+	width: 120px;
+	height: 120px;
+
+}
 
